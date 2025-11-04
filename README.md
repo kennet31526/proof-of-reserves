@@ -106,8 +106,8 @@ Merkle tree path data json text:
       {
          "auditId": "Au20221125",
          "balances": {
-            "BTC": 0.000098,
-            "ETH": 0,
+            "BTC": 34,884642
+            "ETH": 5,86541
             "USDT": 9000.30237189
          },
          "level": 2,
